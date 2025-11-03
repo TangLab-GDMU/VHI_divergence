@@ -1,0 +1,825 @@
+Virus	Abbre	Carrier	Carrier TaxId	Carrier Taxa
+Dengue virus 2	DENV-2	mastomys natalensis	10112	rodents
+Dengue virus 2	DENV-2	callithrix jacchus	9483	primates
+Dengue virus 2	DENV-2	marmosa murina	126295	mammals
+Dengue virus 2	DENV-2	carollia perspicillata	40233	mammals
+Dengue virus 2	DENV-2	aedes furcifer	299627	invertebrates
+Dengue virus 2	DENV-2	aedes albopictus	7160	invertebrates
+Dengue virus 2	DENV-2	cavia porcellus	10141	rodents
+Dengue virus 2	DENV-2	homo sapiens	9606	primates
+Dengue virus 2	DENV-2	mandrillus sphinx	9561	primates
+Dengue virus 2	DENV-2	aedes aegypti	7159	invertebrates
+Dengue virus 2	DENV-2	artibeus jamaicensis	9417	mammals
+Dengue virus 2	DENV-2	loxodonta africana	9785	mammals
+Dengue virus 2	DENV-2	molossus pretiosus	1982945	 
+Dengue virus 2	DENV-2	mus musculus	10090	rodents
+Dengue virus 2	DENV-2	phyllostomus discolor	89673	mammals
+Dengue virus 2	DENV-2	aedes scutellaris	373850	invertebrates
+Dengue virus 2	DENV-2	culex pseudovishnui	100677	invertebrates
+Dengue virus 2	DENV-2	papio anubis	9555	primates
+Dengue virus 2	DENV-2	didelphis marsupialis	9268	mammals
+Dengue virus 2	DENV-2	macaca mulatta	9544	primates
+Dengue virus 2	DENV-2	artibeus lituratus	27634	mammals
+Dengue virus 2	DENV-2	chlorocebus aethiops	9534	primates
+Dengue virus 2	DENV-2	chlorocebus sabaeus	60711	primates
+Dengue virus 2	DENV-2	glossophaga soricina	27638	mammals
+Dengue virus 2	DENV-2	toxorhynchites splendens	498392	invertebrates
+Dengue virus 2	DENV-2	aedes notoscriptus	508665	invertebrates
+Dengue virus 2	DENV-2	aedes katherinensis	508664	invertebrates
+Dengue virus 2	DENV-2	aedes pseudoscutellaris	316597	invertebrates
+Dengue virus 2	DENV-2	culex quinquefasciatus	7176	invertebrates
+Dengue virus 2	DENV-2	molossus sinaloae	58076	mammals
+Dengue virus 2	DENV-2	epomophorus labiatus	903567	 
+Dengue virus 2	DENV-2	molossus rufus	124751	mammals
+Dengue virus 2	DENV-2	macaca fascicularis	9541	primates
+Dengue virus 2	DENV-2	aotus azarai	30591	primates
+Dengue virus 2	DENV-2	anopheles stephensi	30069	invertebrates
+Dengue virus 2	DENV-2	syncerus caffer	9970	mammals
+Dengue virus 2	DENV-2	culex vaxus	1899257	 
+Ebola virus	EBOV	cercopithecus cephus	9535	primates
+Ebola virus	EBOV	mus musculus	10090	rodents
+Ebola virus	EBOV	eptesicus fuscus	29078	mammals
+Ebola virus	EBOV	epomophorus gambianus	372077	mammals
+Ebola virus	EBOV	macaca mulatta	9544	primates
+Ebola virus	EBOV	panthera tigris	9694	mammals
+Ebola virus	EBOV	hystrix cristata	10137	rodents
+Ebola virus	EBOV	eidolon helvum	77214	mammals
+Ebola virus	EBOV	phacochoerus africanus	41426	mammals
+Ebola virus	EBOV	pteropus giganteus	143291	mammals
+Ebola virus	EBOV	cercopithecus nictitans	36228	primates
+Ebola virus	EBOV	pteropus rufus	196297	mammals
+Ebola virus	EBOV	macaca fascicularis	9541	primates
+Ebola virus	EBOV	micropteropus pusillus	77235	mammals
+Ebola virus	EBOV	cricetulus griseus	10029	rodents
+Ebola virus	EBOV	megaderma lyra	9413	mammals
+Ebola virus	EBOV	cavia porcellus	10141	rodents
+Ebola virus	EBOV	chaerephon pumilus	242384	mammals
+Ebola virus	EBOV	epomops buettikoferi	1410044	 
+Ebola virus	EBOV	eptesicus serotinus	59452	mammals
+Ebola virus	EBOV	mustela putorius	9668	mammals
+Ebola virus	EBOV	mus setulosus	10102	rodents
+Ebola virus	EBOV	pongo pygmaeus	9600	primates
+Ebola virus	EBOV	troglodytes troglodytes	36278	vertebrates
+Ebola virus	EBOV	acerodon jubatus	505845	mammals
+Ebola virus	EBOV	rhinolophus hipposideros	77218	mammals
+Ebola virus	EBOV	chlorocebus pygerythrus	60710	primates
+Ebola virus	EBOV	cynopterus sphinx	9400	mammals
+Ebola virus	EBOV	myotis lucifugus	59463	mammals
+Ebola virus	EBOV	pteropus alecto	9402	mammals
+Ebola virus	EBOV	panthera leo	9689	mammals
+Ebola virus	EBOV	callithrix jacchus	9483	primates
+Ebola virus	EBOV	gorilla gorilla	9593	primates
+Ebola virus	EBOV	cynomys ludovicianus	45480	rodents
+Ebola virus	EBOV	papio hamadryas	9557	primates
+Ebola virus	EBOV	sylvisorex ollula	128151	mammals
+Ebola virus	EBOV	hypsignathus monstrosus	448084	mammals
+Ebola virus	EBOV	miniopterus schreibersii	9433	mammals
+Ebola virus	EBOV	nanonycteris veldkampii	498220	 
+Ebola virus	EBOV	chlorocebus aethiops	9534	primates
+Ebola virus	EBOV	pan troglodytes	9598	primates
+Ebola virus	EBOV	rousettus madagascariensis	77223	mammals
+Ebola virus	EBOV	mesocricetus auratus	10036	rodents
+Ebola virus	EBOV	vicugna pacos	30538	mammals
+Ebola virus	EBOV	potamochoerus porcus	273791	mammals
+Ebola virus	EBOV	rousettus aegyptiacus	9407	mammals
+Ebola virus	EBOV	pan paniscus	9597	primates
+Ebola virus	EBOV	cygnus atratus	8868	vertebrates
+Ebola virus	EBOV	mastomys natalensis	10112	rodents
+Ebola virus	EBOV	mops condylurus	258863	mammals
+Ebola virus	EBOV	apodemus agrarius	39030	rodents
+Ebola virus	EBOV	leptailurus serval	61405	mammals
+Ebola virus	EBOV	homo sapiens	9606	primates
+Ebola virus	EBOV	pteropus hypomelanus	9405	mammals
+Ebola virus	EBOV	myonycteris torquata	77243	mammals
+Ebola virus	EBOV	epomops franqueti	77231	mammals
+Ebola virus	EBOV	thryonomys swinderianus	10169	rodents
+Ebola virus	EBOV	myonycteris angolensis	58071	mammals
+Ebola virus	EBOV	mandrillus sphinx	9561	primates
+Epstein-Barr virus	EBV	homo sapiens	9606	primates
+Epstein-Barr virus	EBV	macaca cyclopis	78449	primates
+Epstein-Barr virus	EBV	sus scrofa	9823	mammals
+Epstein-Barr virus	EBV	callithrix jacchus	9483	primates
+Epstein-Barr virus	EBV	pan paniscus	9597	primates
+Epstein-Barr virus	EBV	felis catus	9685	mammals
+Epstein-Barr virus	EBV	macaca fascicularis	9541	primates
+Epstein-Barr virus	EBV	pongo pygmaeus	9600	primates
+Epstein-Barr virus	EBV	papio cynocephalus	9556	primates
+Epstein-Barr virus	EBV	papio ursinus	36229	primates
+Epstein-Barr virus	EBV	chlorocebus aethiops	9534	primates
+Epstein-Barr virus	EBV	tupaia belangeri	37347	mammals
+Epstein-Barr virus	EBV	pan troglodytes	9598	primates
+Epstein-Barr virus	EBV	macaca arctoides	9540	primates
+Epstein-Barr virus	EBV	cercocebus atys	9531	primates
+Epstein-Barr virus	EBV	tupaia chinensis	246437	mammals
+Epstein-Barr virus	EBV	erythrocebus patas	9538	primates
+Epstein-Barr virus	EBV	tupaia glis	9395	mammals
+Epstein-Barr virus	EBV	saimiri sciureus	9521	primates
+Epstein-Barr virus	EBV	macaca mulatta	9544	primates
+Epstein-Barr virus	EBV	macaca fuscata	9542	primates
+Epstein-Barr virus	EBV	canis lupus	9612	mammals
+Epstein-Barr virus	EBV	aotus trivirgatus	9505	primates
+Epstein-Barr virus	EBV	oryctolagus cuniculus	9986	mammals
+Epstein-Barr virus	EBV	hylobates lar	9580	primates
+Epstein-Barr virus	EBV	saguinus oedipus	9490	primates
+Epstein-Barr virus	EBV	papio hamadryas	9557	primates
+Hepatitis C virus	HCV	homo sapiens	9606	primates
+Hepatitis C virus	HCV	myodes glareolus	447135	rodents
+Hepatitis C virus	HCV	chlorocebus aethiops	9534	primates
+Hepatitis C virus	HCV	mus musculus	10090	rodents
+Hepatitis C virus	HCV	cimex lectularius	79782	invertebrates
+Hepatitis C virus	HCV	pan troglodytes	9598	primates
+Hepatitis C virus	HCV	equus asinus	9793	mammals
+Hepatitis C virus	HCV	tupaia belangeri	37347	mammals
+Hepatitis C virus	HCV	myodes rutilus	537920	rodents
+Hepatitis C virus	HCV	tupaia glis	9395	mammals
+Hepatitis C virus	HCV	cavia porcellus	10141	rodents
+Hepatitis C virus	HCV	macaca mulatta	9544	primates
+Hepatitis C virus	HCV	rhabdomys pumilio	121573	rodents
+Hepatitis C virus	HCV	tupaia chinensis	246437	mammals
+Hepatitis C virus	HCV	macaca fascicularis	9541	primates
+Hepatitis C virus	HCV	rattus norvegicus	10116	rodents
+Hepatitis C virus	HCV	bos taurus	9913	mammals
+Hepatitis C virus	HCV	peromyscus maniculatus	10042	rodents
+Hepatitis C virus	HCV	equus caballus	9796	mammals
+Human adenovirus C	HAdV	homo sapiens	9606	primates
+Human adenovirus C	HAdV	sigmodon hispidus	42415	rodents
+Human adenovirus C	HAdV	pongo pygmaeus	9600	primates
+Human adenovirus C	HAdV	cavia porcellus	10141	rodents
+Human adenovirus C	HAdV	gorilla beringei	499232	primates
+Human adenovirus C	HAdV	cichorium intybus	13427	plants
+Human adenovirus C	HAdV	lactuca sativa	4236	plants
+Human adenovirus C	HAdV	pan troglodytes	9598	primates
+Human adenovirus C	HAdV	macaca mulatta	9544	primates
+Human adenovirus C	HAdV	spinacia oleracea	3562	plants
+Human adenovirus C	HAdV	callithrix jacchus	9483	primates
+Human adenovirus C	HAdV	callithrix pygmaea	9493	primates
+Human adenovirus C	HAdV	gorilla gorilla	9593	primates
+Human adenovirus C	HAdV	mesocricetus auratus	10036	rodents
+Human adenovirus C	HAdV	pan paniscus	9597	primates
+Human cytomegalovirus	HCMV	homo sapiens	9606	primates
+Human cytomegalovirus	HCMV	macaca mulatta	9544	primates
+Human cytomegalovirus	HCMV	macaca fascicularis	9541	primates
+Human cytomegalovirus	HCMV	sus scrofa	9823	mammals
+Human cytomegalovirus	HCMV	pan troglodytes	9598	primates
+Human cytomegalovirus	HCMV	cavia porcellus	10141	rodents
+Human cytomegalovirus	HCMV	papio ursinus	36229	primates
+Human cytomegalovirus	HCMV	chlorocebus aethiops	9534	primates
+Human cytomegalovirus	HCMV	equus caballus	9796	mammals
+Human herpesvirus 1	HHV-1	homo sapiens	9606	primates
+Human herpesvirus 1	HHV-1	callithrix jacchus	9483	primates
+Human herpesvirus 1	HHV-1	aotus azarai	30591	primates
+Human herpesvirus 1	HHV-1	chlorocebus aethiops	9534	primates
+Human herpesvirus 1	HHV-1	chlorocebus sabaeus	60711	primates
+Human herpesvirus 1	HHV-1	sus scrofa	9823	mammals
+Human herpesvirus 1	HHV-1	aotus trivirgatus	9505	primates
+Human herpesvirus 1	HHV-1	gorilla gorilla	9593	primates
+Human herpesvirus 1	HHV-1	tupaia glis	9395	mammals
+Human herpesvirus 1	HHV-1	lemur catta	9447	primates
+Human herpesvirus 1	HHV-1	ondatra zibethicus	10060	rodents
+Human herpesvirus 1	HHV-1	oryctolagus cuniculus	9986	mammals
+Human herpesvirus 1	HHV-1	callithrix penicillata	57378	primates
+Human herpesvirus 1	HHV-1	alouatta caraya	9502	primates
+Human herpesvirus 1	HHV-1	pithecia pithecia	43777	primates
+Human herpesvirus 1	HHV-1	tursiops truncatus	9739	mammals
+Human herpesvirus 1	HHV-1	hylobates lar	9580	primates
+Human herpesvirus 1	HHV-1	tupaia belangeri	37347	mammals
+Human herpesvirus 1	HHV-1	ovis aries	9940	mammals
+Human herpesvirus 1	HHV-1	cavia porcellus	10141	rodents
+Human herpesvirus 1	HHV-1	capra hircus	9925	mammals
+Human herpesvirus 1	HHV-1	sigmodon hispidus	42415	rodents
+Human herpesvirus 1	HHV-1	callithrix pygmaea	9493	primates
+Human herpesvirus 1	HHV-1	pan troglodytes	9598	primates
+Human herpesvirus 1	HHV-1	gorilla beringei	499232	primates
+Human herpesvirus 1	HHV-1	erinaceus europaeus	9365	mammals
+Human herpesvirus 1	HHV-1	pongo pygmaeus	9600	primates
+Human herpesvirus 1	HHV-1	macaca mulatta	9544	primates
+Human herpesvirus 1	HHV-1	hylobates agilis	9579	primates
+Human herpesvirus 1	HHV-1	tupaia chinensis	246437	mammals
+Human herpesvirus 1	HHV-1	mesocricetus auratus	10036	rodents
+Human immunodeficiency virus 1	HIV-1	homo sapiens	9606	primates
+Human immunodeficiency virus 1	HIV-1	sus scrofa	9823	mammals
+Human immunodeficiency virus 1	HIV-1	semnopithecus entellus	88029	primates
+Human immunodeficiency virus 1	HIV-1	macaca leonina	90387	primates
+Human immunodeficiency virus 1	HIV-1	macaca nemestrina	9545	primates
+Human immunodeficiency virus 1	HIV-1	bos taurus	9913	mammals
+Human immunodeficiency virus 1	HIV-1	ovis aries	9940	mammals
+Human immunodeficiency virus 1	HIV-1	pan troglodytes	9598	primates
+Human immunodeficiency virus 1	HIV-1	macaca mulatta	9544	primates
+Human immunodeficiency virus 1	HIV-1	gorilla gorilla	9593	primates
+Human immunodeficiency virus 1	HIV-1	cercocebus atys	9531	primates
+Human immunodeficiency virus 1	HIV-1	capra hircus	9925	mammals
+Human immunodeficiency virus 1	HIV-1	hylobates lar	9580	primates
+Human immunodeficiency virus 1	HIV-1	chlorocebus aethiops	9534	primates
+Human papillomavirus 33	HPV-33	homo sapiens	9606	primates
+Human papillomavirus 16	HPV-16	macaca mulatta	9544	primates
+Human papillomavirus 18	HPV-18	equus caballus	9796	mammals
+Human papillomavirus 6b	HPV-6b	homo sapiens	9606	primates
+Human papillomavirus 16	HPV-16	komagataella pastoris	4922	plants
+Human papillomavirus 18	HPV-18	homo sapiens	9606	primates
+Human papillomavirus 11	HPV-11	homo sapiens	9606	primates
+Human papillomavirus 16	HPV-16	homo sapiens	9606	primates
+Human papillomavirus 11	HPV-11	chlorocebus aethiops	9534	primates
+Human papillomavirus 31	HPV-31	homo sapiens	9606	primates
+Human papillomavirus 18	HPV-18	komagataella pastoris	4922	plants
+Human papillomavirus 16	HPV-16	cavia porcellus	10141	rodents
+Human papillomavirus 9	HPV-9	felis catus	9685	mammals
+Human papillomavirus 5 	HPV-5	homo sapiens	9606	primates
+Human respiratory syncytial virus	HRSV	homo sapiens	9606	primates
+Human respiratory syncytial virus	HRSV	sus scrofa	9823	mammals
+Human respiratory syncytial virus	HRSV	gorilla beringei	499232	primates
+Human respiratory syncytial virus	HRSV	cercopithecus ascanius	36223	primates
+Human respiratory syncytial virus	HRSV	macaca mulatta	9544	primates
+Human respiratory syncytial virus	HRSV	pan troglodytes	9598	primates
+Human respiratory syncytial virus	HRSV	pongo pygmaeus	9600	primates
+Kaposi's sarcoma-associated herpesvirus	KSHV	homo sapiens	9606	primates
+Kaposi's sarcoma-associated herpesvirus	KSHV	papio cynocephalus	9556	primates
+Kaposi's sarcoma-associated herpesvirus	KSHV	pan troglodytes	9598	primates
+Kaposi's sarcoma-associated herpesvirus	KSHV	callithrix jacchus	9483	primates
+Kaposi's sarcoma-associated herpesvirus	KSHV	macaca fuscata	9542	primates
+Kaposi's sarcoma-associated herpesvirus	KSHV	saimiri sciureus	9521	primates
+Kaposi's sarcoma-associated herpesvirus	KSHV	mandrillus sphinx	9561	primates
+Kaposi's sarcoma-associated herpesvirus	KSHV	chlorocebus aethiops	9534	primates
+Kaposi's sarcoma-associated herpesvirus	KSHV	papio anubis	9555	primates
+Kaposi's sarcoma-associated herpesvirus	KSHV	macaca nemestrina	9545	primates
+Kaposi's sarcoma-associated herpesvirus	KSHV	macaca fascicularis	9541	primates
+Kaposi's sarcoma-associated herpesvirus	KSHV	mandrillus leucophaeus	9568	primates
+Kaposi's sarcoma-associated herpesvirus	KSHV	macaca mulatta	9544	primates
+Kaposi's sarcoma-associated herpesvirus	KSHV	sus scrofa	9823	mammals
+Lymphocytic choriomeningitis virus	LCMV	homo sapiens	9606	primates
+Lymphocytic choriomeningitis virus	LCMV	callimico goeldii	9495	primates
+Lymphocytic choriomeningitis virus	LCMV	macaca mulatta	9544	primates
+Lymphocytic choriomeningitis virus	LCMV	microtus levis	537919	rodents
+Lymphocytic choriomeningitis virus	LCMV	meriones unguiculatus	10047	rodents
+Lymphocytic choriomeningitis virus	LCMV	myodes glareolus	447135	rodents
+Lymphocytic choriomeningitis virus	LCMV	cavia porcellus	10141	rodents
+Lymphocytic choriomeningitis virus	LCMV	mus musculus	10090	rodents
+Lymphocytic choriomeningitis virus	LCMV	sciurus carolinensis	30640	rodents
+Lymphocytic choriomeningitis virus	LCMV	dermacentor silvarum	543639	invertebrates
+Lymphocytic choriomeningitis virus	LCMV	cricetulus griseus	10029	rodents
+Lymphocytic choriomeningitis virus	LCMV	apodemus sylvaticus	10129	rodents
+Lymphocytic choriomeningitis virus	LCMV	rattus rattus	10117	rodents
+Lymphocytic choriomeningitis virus	LCMV	microtus arvalis	47230	rodents
+Lymphocytic choriomeningitis virus	LCMV	mesocricetus auratus	10036	rodents
+Lymphocytic choriomeningitis virus	LCMV	mustela erminea	36723	mammals
+Lymphocytic choriomeningitis virus	LCMV	haemaphysalis longicornis	44386	invertebrates
+Lymphocytic choriomeningitis virus	LCMV	callithrix pygmaea	9493	primates
+Lymphocytic choriomeningitis virus	LCMV	papio cynocephalus	9556	primates
+Lymphocytic choriomeningitis virus	LCMV	mus spretus	10096	rodents
+Lymphocytic choriomeningitis virus	LCMV	chionomys roberti	269650	rodents
+Lymphocytic choriomeningitis virus	LCMV	vulpes vulpes	9627	mammals
+Lymphocytic choriomeningitis virus	LCMV	apodemus flavicollis	54292	rodents
+Lymphocytic choriomeningitis virus	LCMV	apodemus mystacinus	100382	rodents
+Lymphocytic choriomeningitis virus	LCMV	microtus pennsylvanicus	10058	rodents
+Lymphocytic choriomeningitis virus	LCMV	ixodes persulcatus	34615	invertebrates
+Lymphocytic choriomeningitis virus	LCMV	microtus agrestis	29092	rodents
+Lymphocytic choriomeningitis virus	LCMV	sciurus vulgaris	55149	rodents
+Lymphocytic choriomeningitis virus	LCMV	arvicola scherman	1276134	 
+Lymphocytic choriomeningitis virus	LCMV	apodemus agrarius	39030	rodents
+Lymphocytic choriomeningitis virus	LCMV	dermacentor nuttalli	1046038	 
+Lymphocytic choriomeningitis virus	LCMV	panthera leo	9689	mammals
+Lymphocytic choriomeningitis virus	LCMV	micromys minutus	13151	rodents
+Measles virus	MV	homo sapiens	9606	primates
+Measles virus	MV	chlorocebus sabaeus	60711	primates
+Measles virus	MV	macaca fascicularis	9541	primates
+Measles virus	MV	macaca mulatta	9544	primates
+Measles virus	MV	chlorocebus aethiops	9534	primates
+Measles virus	MV	phoca vitulina	9720	mammals
+Measles virus	MV	sigmodon hispidus	42415	rodents
+Measles virus	MV	tupaia chinensis	246437	mammals
+Measles virus	MV	panthera pardus	9691	mammals
+Measles virus	MV	macaca fuscata	9542	primates
+Measles virus	MV	pusa sibirica	9719	mammals
+Measles virus	MV	macaca radiata	9548	primates
+Measles virus	MV	aotus trivirgatus	9505	primates
+Measles virus	MV	saimiri sciureus	9521	primates
+Measles virus	MV	martes pennanti	76720	mammals
+Measles virus	MV	mesocricetus auratus	10036	rodents
+Measles virus	MV	semnopithecus entellus	88029	primates
+Measles virus	MV	procyon lotor	9654	mammals
+Measles virus	MV	aotus azarai	30591	primates
+Measles virus	MV	gorilla beringei	499232	primates
+Measles virus	MV	pusa caspica	693431	mammals
+Measles virus	MV	colobus guereza	33548	primates
+Measles virus	MV	panthera leo	9689	mammals
+Measles virus	MV	callithrix jacchus	9483	primates
+Measles virus	MV	rattus norvegicus	10116	rodents
+Measles virus	MV	saguinus labiatus	78454	primates
+Measles virus	MV	trachypithecus cristatus	122765	primates
+Measles virus	MV	panthera tigris	9694	mammals
+Measles virus	MV	saguinus mystax	9488	primates
+MERS-CoV	MERS-CoV	homo sapiens	9606	primates
+MERS-CoV	MERS-CoV	alces americanus	999462	mammals
+MERS-CoV	MERS-CoV	pipistrellus abramus	105295	mammals
+MERS-CoV	MERS-CoV	chlorocebus aethiops	9534	primates
+MERS-CoV	MERS-CoV	camelus bactrianus	9837	mammals
+MERS-CoV	MERS-CoV	mesocricetus auratus	10036	rodents
+MERS-CoV	MERS-CoV	vespertilio sinensis	105273	mammals
+MERS-CoV	MERS-CoV	tylonycteris pachypus	258959	mammals
+MERS-CoV	MERS-CoV	miniopterus magnater	438766	mammals
+MERS-CoV	MERS-CoV	desmodus rotundus	9430	mammals
+MERS-CoV	MERS-CoV	pipistrellus kuhlii	59472	mammals
+MERS-CoV	MERS-CoV	procyon lotor	9654	mammals
+MERS-CoV	MERS-CoV	tadarida teniotis	59483	mammals
+MERS-CoV	MERS-CoV	artibeus jamaicensis	9417	mammals
+MERS-CoV	MERS-CoV	hypsugo savii	109485	mammals
+MERS-CoV	MERS-CoV	plecotus auritus	61862	mammals
+MERS-CoV	MERS-CoV	ia io	360967	mammals
+MERS-CoV	MERS-CoV	tadarida brasiliensis	9438	mammals
+MERS-CoV	MERS-CoV	paguma larvata	9675	mammals
+MERS-CoV	MERS-CoV	nyctereutes procyonoides	34880	mammals
+MERS-CoV	MERS-CoV	miniopterus fuliginosus	187007	mammals
+MERS-CoV	MERS-CoV	rousettus aegyptiacus	9407	mammals
+MERS-CoV	MERS-CoV	macaca mulatta	9544	primates
+MERS-CoV	MERS-CoV	pipistrellus pipistrellus	59474	mammals
+MERS-CoV	MERS-CoV	vicugna pacos	30538	mammals
+MERS-CoV	MERS-CoV	triaenops afer	549403	mammals
+MERS-CoV	MERS-CoV	erinaceus europaeus	9365	mammals
+MERS-CoV	MERS-CoV	lama glama	9844	mammals
+MERS-CoV	MERS-CoV	rousettus leschenaultii	9408	mammals
+MERS-CoV	MERS-CoV	rhinolophus ferrumequinum	59479	mammals
+MERS-CoV	MERS-CoV	cavia porcellus	10141	rodents
+MERS-CoV	MERS-CoV	taphozous perforatus	1381355	 
+MERS-CoV	MERS-CoV	camelus dromedarius	9838	mammals
+MERS-CoV	MERS-CoV	equus asinus	9793	mammals
+MERS-CoV	MERS-CoV	neoromicia capensis	110938	mammals
+MERS-CoV	MERS-CoV	rhinolophus sinicus	89399	mammals
+MERS-CoV	MERS-CoV	callithrix jacchus	9483	primates
+MERS-CoV	MERS-CoV	ovis aries	9940	mammals
+MERS-CoV	MERS-CoV	eonycteris spelaea	58065	mammals
+MERS-CoV	MERS-CoV	vespertilio murinus	59485	mammals
+MERS-CoV	MERS-CoV	suncus murinus	9378	mammals
+MERS-CoV	MERS-CoV	miniopterus pusillus	258934	mammals
+MERS-CoV	MERS-CoV	papio hamadryas	9557	primates
+MERS-CoV	MERS-CoV	eptesicus serotinus	59452	mammals
+MERS-CoV	MERS-CoV	cricetulus griseus	10029	rodents
+MERS-CoV	MERS-CoV	pipistrellus nathusii	59473	mammals
+MERS-CoV	MERS-CoV	hypsugo pulveratus	867834	mammals
+MERS-CoV	MERS-CoV	capra hircus	9925	mammals
+MERS-CoV	MERS-CoV	epomophorus gambianus	372077	mammals
+MERS-CoV	MERS-CoV	sus scrofa	9823	mammals
+MERS-CoV	MERS-CoV	eptesicus fuscus	29078	mammals
+SARS-CoV-2	SARS-CoV-2	synthetic construct	32630	synthetic
+SARS-CoV-2	SARS-CoV-2	giraffa camelopardalis	9894	mammals
+SARS-CoV-2	SARS-CoV-2	paradoxurus hermaphroditus	71117	mammals
+SARS-CoV-2	SARS-CoV-2	mephitis mephitis	30548	mammals
+SARS-CoV-2	SARS-CoV-2	puma concolor	9696	mammals
+SARS-CoV-2	SARS-CoV-2	nyctereutes procyonoides	34880	mammals
+SARS-CoV-2	SARS-CoV-2	odocoileus virginianus	9874	mammals
+SARS-CoV-2	SARS-CoV-2	neovison vison	452646	mammals
+SARS-CoV-1	SARS-CoV-1	paradoxurus hermaphroditus	71117	mammals
+SARS-CoV-2	SARS-CoV-2	papio hamadryas	9557	primates
+SARS-CoV-1	SARS-CoV-1	mus musculus	10090	rodents
+SARS-CoV-2	SARS-CoV-2	nasua nasua	9651	mammals
+SARS-CoV-2	SARS-CoV-2	panthera leo	9689	mammals
+SARS-CoV-1	SARS-CoV-1	homo sapiens	9606	primates
+SARS-CoV-2	SARS-CoV-2	canis lupus	9612	mammals
+SARS-CoV-1	SARS-CoV-1	chlorocebus aethiops	9534	primates
+SARS-CoV-2	SARS-CoV-2	ochotona princeps	9978	mammals
+SARS-CoV-2	SARS-CoV-2	panthera uncia	29064	mammals
+SARS-CoV-2	SARS-CoV-2	vulpes vulpes	9627	mammals
+SARS-CoV-2	SARS-CoV-2	panthera tigris	9694	mammals
+SARS-CoV-2	SARS-CoV-2	rattus norvegicus	10116	rodents
+SARS-CoV-1	SARS-CoV-1	paguma larvata	9675	mammals
+SARS-CoV-2	SARS-CoV-2	capra hircus	9925	mammals
+SARS-CoV-2	SARS-CoV-2	homo sapiens	9606	primates
+SARS-CoV-2	SARS-CoV-2	aselliscus stoliczkanus	188568	mammals
+SARS-CoV-2	SARS-CoV-2	chlorocebus aethiops	9534	primates
+SARS-CoV-2	SARS-CoV-2	arctictis binturong	94180	mammals
+SARS-CoV-2	SARS-CoV-2	luscinia megarhynchos	383689	vertebrates
+SARS-CoV-2	SARS-CoV-2	bos taurus	9913	mammals
+SARS-CoV-2	SARS-CoV-2	rhinolophus sinicus	89399	mammals
+SARS-CoV-2	SARS-CoV-2	alces americanus	999462	mammals
+SARS-CoV-2	SARS-CoV-2	procyon lotor	9654	mammals
+SARS-CoV-2	SARS-CoV-2	panthera pardus	9691	mammals
+SARS-CoV-2	SARS-CoV-2	chlorocebus sabaeus	60711	primates
+SARS-CoV-2	SARS-CoV-2	felis catus	9685	mammals
+SARS-CoV-2	SARS-CoV-2	mesocricetus auratus	10036	rodents
+SARS-CoV-2	SARS-CoV-2	peromyscus maniculatus	10042	rodents
+SARS-CoV-2	SARS-CoV-2	rousettus aegyptiacus	9407	mammals
+SARS-CoV-2	SARS-CoV-2	pipistrellus abramus	105295	mammals
+SARS-CoV-2	SARS-CoV-2	myodes glareolus	447135	rodents
+SARS-CoV-2	SARS-CoV-2	cygnus atratus	8868	vertebrates
+SARS-CoV-2	SARS-CoV-2	phodopus roborovskii	109678	rodents
+SARS-CoV-2	SARS-CoV-2	mus musculus	10090	rodents
+SARS-CoV-2	SARS-CoV-2	mustela putorius	9668	mammals
+SARS-CoV-2	SARS-CoV-2	rhinolophus affinis	59477	mammals
+SARS-CoV-2	SARS-CoV-2	oryctolagus cuniculus	9986	mammals
+SARS-CoV-2	SARS-CoV-2	macaca fascicularis	9541	primates
+SARS-CoV-2	SARS-CoV-2	tylonycteris pachypus	258959	mammals
+SARS-CoV-2	SARS-CoV-2	lutra lutra	9657	mammals
+SARS-CoV-2	SARS-CoV-2	neotoma cinerea	105147	rodents
+SARS-CoV-1	SARS-CoV-1	rhinolophus sinicus	89399	mammals
+SARS-CoV-2	SARS-CoV-2	ovis aries	9940	mammals
+SARS-CoV-2	SARS-CoV-2	macaca mulatta	9544	primates
+SARS-CoV-2	SARS-CoV-2	mustela lutreola	9666	mammals
+SARS-CoV-2	SARS-CoV-2	prionailurus viverrinus	61388	mammals
+SARS-CoV-2	SARS-CoV-2	sus scrofa	9823	mammals
+SARS-CoV-2	SARS-CoV-2	cavia porcellus	10141	rodents
+SARS-CoV-2	SARS-CoV-2	crocuta crocuta	9678	mammals
+SARS-CoV-2	SARS-CoV-2	pteropus giganteus	143291	mammals
+SARS-CoV-2	SARS-CoV-2	callithrix jacchus	9483	primates
+SARS-CoV-2	SARS-CoV-2	tupaia belangeri	37347	mammals
+SARS-CoV-2	SARS-CoV-2	callithrix melanura	1090896	 
+Vaccinia virus	VACV	macaca fascicularis	9541	primates
+Vaccinia virus	VACV	sapajus apella	9515	primates
+Vaccinia virus	VACV	ovis aries	9940	mammals
+Vaccinia virus	VACV	bos taurus	9913	mammals
+Vaccinia virus	VACV	oligoryzomys flavescens	218824	rodents
+Vaccinia virus	VACV	bubalus bubalis	89462	mammals
+Vaccinia virus	VACV	homo sapiens	9606	primates
+Vaccinia virus	VACV	mus musculus	10090	rodents
+Vaccinia virus	VACV	vulpes vulpes	9627	mammals
+Vaccinia virus	VACV	felis catus	9685	mammals
+Vaccinia virus	VACV	didelphis albiventris	42716	mammals
+Vaccinia virus	VACV	alouatta caraya	9502	primates
+Vaccinia virus	VACV	macaca mulatta	9544	primates
+Vaccinia virus	VACV	chlorocebus sabaeus	60711	primates
+Vaccinia virus	VACV	lynx lynx	13125	mammals
+Vaccinia virus	VACV	oryctolagus cuniculus	9986	mammals
+Vaccinia virus	VACV	papio cynocephalus	9556	primates
+Vaccinia virus	VACV	hydrochoerus hydrochaeris	10149	rodents
+Vaccinia virus	VACV	equus caballus	9796	mammals
+Vaccinia virus	VACV	equus asinus	9793	mammals
+Vaccinia virus	VACV	oligoryzomys nigripes	37017	rodents
+Vaccinia virus	VACV	sus scrofa	9823	mammals
+Vaccinia virus	VACV	sooretamys angouya	530180	rodents
+Vaccinia virus	VACV	capra hircus	9925	mammals
+Vaccinia virus	VACV	cavia porcellus	10141	rodents
+Zika virus	ZIKV	homo sapiens	9606	primates
+Zika virus	ZIKV	aedes africanus	667568	invertebrates
+Zika virus	ZIKV	cavia porcellus	10141	rodents
+Zika virus	ZIKV	pan troglodytes	9598	primates
+Zika virus	ZIKV	artibeus planirostris	40230	mammals
+Zika virus	ZIKV	culex tritaeniorhynchus	7178	invertebrates
+Zika virus	ZIKV	sapajus libidinosus	1126382	 
+Zika virus	ZIKV	chlorocebus aethiops	9534	primates
+Zika virus	ZIKV	aedes aegypti	7159	invertebrates
+Zika virus	ZIKV	ovis aries	9940	mammals
+Zika virus	ZIKV	wyeomyia confusa	2597064	 
+Zika virus	ZIKV	macaca mulatta	9544	primates
+Zika virus	ZIKV	callithrix jacchus	9483	primates
+Zika virus	ZIKV	pongo pygmaeus	9600	primates
+Zika virus	ZIKV	macaca arctoides	9540	primates
+Zika virus	ZIKV	papio anubis	9555	primates
+Zika virus	ZIKV	anopheles gambiae	7165	invertebrates
+Zika virus	ZIKV	aedes vexans	7163	invertebrates
+Zika virus	ZIKV	limatus durhamii	704165	invertebrates
+Zika virus	ZIKV	tupaia belangeri	37347	mammals
+Zika virus	ZIKV	macaca fascicularis	9541	primates
+Zika virus	ZIKV	artibeus jamaicensis	9417	mammals
+Zika virus	ZIKV	aedes unilineatus	1328038	 
+Zika virus	ZIKV	culex quinquefasciatus	7176	invertebrates
+Zika virus	ZIKV	saguinus labiatus	78454	primates
+Zika virus	ZIKV	ochlerotatus taeniorhynchus	329105	invertebrates
+Zika virus	ZIKV	aedes albopictus	7160	invertebrates
+Zika virus	ZIKV	aotus trivirgatus	9505	primates
+Zika virus	ZIKV	epomophorus labiatus	903567	 
+Zika virus	ZIKV	aedes polynesiensis	188700	invertebrates
+Zika virus	ZIKV	culex nigripalpus	42429	invertebrates
+Zika virus	ZIKV	saimiri boliviensis	27679	primates
+Zika virus	ZIKV	armigeres subalbatus	124917	invertebrates
+Zika virus	ZIKV	anopheles sinensis	74873	invertebrates
+Zika virus	ZIKV	suncus murinus	9378	mammals
+Zika virus	ZIKV	tupaia glis	9395	mammals
+Zika virus	ZIKV	anopheles cruzii	68878	invertebrates
+Zika virus	ZIKV	culex lactator	871896	invertebrates
+Zika virus	ZIKV	aedes hensilli	373851	invertebrates
+Zika virus	ZIKV	alouatta guariba	182256	primates
+Zika virus	ZIKV	rousettus aegyptiacus	9407	mammals
+Zika virus	ZIKV	macaca nemestrina	9545	primates
+Zika virus	ZIKV	mesocricetus auratus	10036	rodents
+Zika virus	ZIKV	rattus norvegicus	10116	rodents
+Zika virus	ZIKV	aedes taylori	299628	invertebrates
+Zika virus	ZIKV	culex thriambus	871895	invertebrates
+Zika virus	ZIKV	bubalus carabanensis	346063	mammals
+Zika virus	ZIKV	eidolon helvum	77214	mammals
+Zika virus	ZIKV	sapajus flavius	1112861	 
+Zika virus	ZIKV	gallus gallus	9031	vertebrates
+Influenza A virus (H1N1)	H1N1	sus scrofa	9823	mammals
+Influenza A virus (H1N1)	H1N1	homo sapiens	9606	primates
+Influenza A virus (H1N1)	H1N1	anas platyrhynchos	8839	vertebrates
+Influenza A virus (H1N1)	H1N1	bos grunniens	30521	mammals
+Influenza A virus (H1N1)	H1N1	anas poecilorhyncha	75854	vertebrates
+Influenza A virus (H1N1)	H1N1	polysticta stelleri	234623	vertebrates
+Influenza A virus (H1N1)	H1N1	anas georgica	75847	vertebrates
+Influenza A virus (H1N1)	H1N1	arenaria interpres	54971	vertebrates
+Influenza A virus (H1N1)	H1N1	podiceps grisegena	80367	vertebrates
+Influenza A virus (H1N1)	H1N1	mareca penelope	8838	vertebrates
+Influenza A virus (H1N1)	H1N1	branta bernicla	184712	vertebrates
+Influenza A virus (H1N1)	H1N1	anser albifrons	50365	vertebrates
+Influenza A virus (H1N1)	H1N1	anas carolinensis	75836	vertebrates
+Influenza A virus (H1N1)	H1N1	anas clypeata	75838	vertebrates
+Influenza A virus (H1N1)	H1N1	anas acuta	28680	vertebrates
+Influenza A virus (H1N1)	H1N1	anas rubripes	75857	vertebrates
+Influenza A virus (H1N1)	H1N1	anas crecca	75839	vertebrates
+Influenza A virus (H1N1)	H1N1	meleagris gallopavo	9103	vertebrates
+Influenza A virus (H1N1)	H1N1	anas discors	75842	vertebrates
+Influenza A virus (H1N1)	H1N1	mirounga angustirostris	9716	mammals
+Influenza A virus (H1N1)	H1N1	felis catus	9685	mammals
+Influenza A virus (H1N1)	H1N1	passer montanus	9160	vertebrates
+Influenza A virus (H1N1)	H1N1	acinonyx jubatus	32536	mammals
+Influenza A virus (H1N1)	H1N1	chlorocebus aethiops	9534	primates
+Influenza A virus (H1N1)	H1N1	macaca mulatta	9544	primates
+Influenza A virus (H1N1)	H1N1	ailuropoda melanoleuca	9646	mammals
+Influenza A virus (H1N1)	H1N1	camelus dromedarius	9838	mammals
+Influenza A virus (H1N1)	H1N1	bos taurus	9913	mammals
+Influenza A virus (H1N1)	H1N1	vicugna pacos	30538	mammals
+Influenza A virus (H1N1)	H1N1	tupaia belangeri	37347	mammals
+Influenza A virus (H1N1)	H1N1	anas diazi	75841	vertebrates
+Influenza A virus (H1N1)	H1N1	haliaeetus leucocephalus	52644	vertebrates
+Influenza A virus (H1N1)	H1N1	ochotona curzoniae	130825	mammals
+Influenza A virus (H1N1)	H1N1	cairina moschata	8855	vertebrates
+Influenza A virus (H1N1)	H1N1	calidris alba	279936	vertebrates
+Influenza A virus (H1N1)	H1N1	grus monacha	40818	vertebrates
+Influenza A virus (H1N1)	H1N1	aythya affinis	189533	vertebrates
+Influenza A virus (H1N1)	H1N1	somateria mollissima	76058	vertebrates
+Influenza A virus (H1N1)	H1N1	calidris canutus	227173	vertebrates
+Influenza A virus (H1N1)	H1N1	histrionicus histrionicus	68165	vertebrates
+Influenza A virus (H1N1)	H1N1	anser brachyrhynchus	132585	vertebrates
+Influenza A virus (H1N1)	H1N1	coturnix coturnix	9091	vertebrates
+Influenza A virus (H1N1)	H1N1	bucephala clangula	107022	vertebrates
+Influenza A virus (H1N1)	H1N1	uria lomvia	28711	vertebrates
+Influenza A virus (H1N1)	H1N1	aythya americana	30385	vertebrates
+Influenza A virus (H1N1)	H1N1	aythya fuligula	219594	vertebrates
+Influenza A virus (H1N1)	H1N1	anser fabalis	132587	vertebrates
+Influenza A virus (H1N1)	H1N1	aythya valisineria	110915	vertebrates
+Influenza A virus (H1N1)	H1N1	bucephala albeola	279934	vertebrates
+Influenza A virus (H1N1)	H1N1	melursus ursinus	9636	mammals
+Influenza A virus (H1N1)	H1N1	branta leucopsis	184711	vertebrates
+Influenza A virus (H1N1)	H1N1	larus glaucescens	119606	vertebrates
+Influenza A virus (H1N1)	H1N1	cygnus columbianus bewickii	541010	vertebrates
+Influenza A virus (H1N1)	H1N1	anser caerulescens	8849	vertebrates
+Influenza A virus (H1N1)	H1N1	anas flavirostris	75845	vertebrates
+Influenza A virus (H1N1)	H1N1	gallus gallus	9031	vertebrates
+Influenza A virus (H1N1)	H1N1	branta canadensis	8853	vertebrates
+Influenza A virus (H1N1)	H1N1	passer domesticus	48849	vertebrates
+Influenza A virus (H1N1)	H1N1	sturnus vulgaris	9172	vertebrates
+Influenza A virus (H1N1)	H1N1	arctocephalus australis	161928	mammals
+Influenza A virus (H1N1)	H1N1	callithrix jacchus	9483	primates
+Influenza A virus (H1N1)	H1N1	canis latrans	9614	mammals
+Influenza A virus (H1N1)	H1N1	cavia porcellus	10141	rodents
+Influenza A virus (H1N1)	H1N1	enhydra lutris	34882	mammals
+Influenza A virus (H1N1)	H1N1	eulemur fulvus	13515	primates
+Influenza A virus (H1N1)	H1N1	lasiopodomys brandtii	407171	rodents
+Influenza A virus (H1N1)	H1N1	macaca fascicularis	9541	primates
+Influenza A virus (H1N1)	H1N1	macaca nemestrina	9545	primates
+Influenza A virus (H1N1)	H1N1	mephitis mephitis	30548	mammals
+Influenza A virus (H1N1)	H1N1	mustela putorius	9668	mammals
+Influenza A virus (H1N1)	H1N1	myrmecophaga tridactyla	71006	mammals
+Influenza A virus (H1N1)	H1N1	neovison vison	452646	mammals
+Influenza A virus (H1N1)	H1N1	procyon lotor	9654	mammals
+Influenza A virus (H1N1)	H1N1	sigmodon hispidus	42415	rodents
+Influenza A virus (H1N1)	H1N1	tupaia chinensis	246437	mammals
+Influenza A virus (H1N1)	H1N1	tupaia glis	9395	mammals
+Influenza A virus (H1N1)	H1N1	rhynchotus rufescens	30466	vertebrates
+Influenza A virus (H1N1)	H1N1	numenius phaeopus	161676	vertebrates
+Influenza A virus (H5N1)	H5N1	homo sapiens	9606	primates
+Influenza A virus (H5N1)	H5N1	gallus gallus	9031	vertebrates
+Influenza A virus (H5N1)	H5N1	cygnus olor	8869	vertebrates
+Influenza A virus (H5N1)	H5N1	cygnus cygnus	219595	vertebrates
+Influenza A virus (H5N1)	H5N1	meleagris gallopavo	9103	vertebrates
+Influenza A virus (H5N1)	H5N1	necrosyrtes monachus	30399	vertebrates
+Influenza A virus (H5N1)	H5N1	anas platyrhynchos	8839	vertebrates
+Influenza A virus (H5N1)	H5N1	aythya ferina	219593	vertebrates
+Influenza A virus (H5N1)	H5N1	aythya fuligula	219594	vertebrates
+Influenza A virus (H5N1)	H5N1	anser anser	8843	vertebrates
+Influenza A virus (H5N1)	H5N1	podiceps cristatus	345573	vertebrates
+Influenza A virus (H5N1)	H5N1	ichthyaetus ichthyaetus	126702	vertebrates
+Influenza A virus (H5N1)	H5N1	anser indicus	8846	vertebrates
+Influenza A virus (H5N1)	H5N1	chroicocephalus ridibundus	1192867	 
+Influenza A virus (H5N1)	H5N1	columba livia	8932	vertebrates
+Influenza A virus (H5N1)	H5N1	anser fabalis	132587	vertebrates
+Influenza A virus (H5N1)	H5N1	branta canadensis	8853	vertebrates
+Influenza A virus (H5N1)	H5N1	felis catus	9685	mammals
+Influenza A virus (H5N1)	H5N1	neofelis nebulosa	61452	mammals
+Influenza A virus (H5N1)	H5N1	buteo buteo	30397	vertebrates
+Influenza A virus (H5N1)	H5N1	cepora nerissa	441320	invertebrates
+Influenza A virus (H5N1)	H5N1	falco tinnunculus	100819	vertebrates
+Influenza A virus (H5N1)	H5N1	pica pica	34924	vertebrates
+Influenza A virus (H5N1)	H5N1	accipiter trivirgatus	210844	vertebrates
+Influenza A virus (H5N1)	H5N1	dromaius novaehollandiae	8790	vertebrates
+Influenza A virus (H5N1)	H5N1	equus caballus	9796	mammals
+Influenza A virus (H5N1)	H5N1	chrysolophus pictus	9089	vertebrates
+Influenza A virus (H5N1)	H5N1	phalacrocorax carbo	9209	vertebrates
+Influenza A virus (H5N1)	H5N1	ardea alba	110620	vertebrates
+Influenza A virus (H5N1)	H5N1	butorides virescens	110671	vertebrates
+Influenza A virus (H5N1)	H5N1	ardea cinerea	30390	vertebrates
+Influenza A virus (H5N1)	H5N1	larus argentatus	35669	vertebrates
+Influenza A virus (H5N1)	H5N1	corvus splendens	701737	vertebrates
+Influenza A virus (H5N1)	H5N1	passer domesticus	48849	vertebrates
+Influenza A virus (H5N1)	H5N1	zosterops japonicus	36299	vertebrates
+Influenza A virus (H5N1)	H5N1	lophura leucomelanos	140445	vertebrates
+Influenza A virus (H5N1)	H5N1	piaya minuta	121399	vertebrates
+Influenza A virus (H5N1)	H5N1	lanius schach	276763	vertebrates
+Influenza A virus (H5N1)	H5N1	mergellus albellus	107026	vertebrates
+Influenza A virus (H5N1)	H5N1	mustela lutreola	9666	mammals
+Influenza A virus (H5N1)	H5N1	neovison vison	452646	mammals
+Influenza A virus (H5N1)	H5N1	nisaetus nipalensis	214438	vertebrates
+Influenza A virus (H5N1)	H5N1	cairina moschata	8855	vertebrates
+Influenza A virus (H5N1)	H5N1	struthio camelus	8801	vertebrates
+Influenza A virus (H5N1)	H5N1	inachis io	171585	invertebrates
+Influenza A virus (H5N1)	H5N1	sus scrofa	9823	mammals
+Influenza A virus (H5N1)	H5N1	sturnus sericeus	451428	vertebrates
+Influenza A virus (H5N1)	H5N1	corvus frugilegus	75140	vertebrates
+Influenza A virus (H5N1)	H5N1	tadorna ferruginea	45639	vertebrates
+Influenza A virus (H5N1)	H5N1	arenaria interpres	54971	vertebrates
+Influenza A virus (H5N1)	H5N1	falco cherrug	345164	vertebrates
+Influenza A virus (H5N1)	H5N1	leiothrix argentauris	201335	vertebrates
+Influenza A virus (H5N1)	H5N1	panthera tigris	9694	mammals
+Influenza A virus (H5N1)	H5N1	passer montanus	9160	vertebrates
+Influenza A virus (H5N1)	H5N1	gallicrex cinerea	261967	vertebrates
+Influenza A virus (H5N1)	H5N1	lonchura striata	40157	vertebrates
+Influenza A virus (H5N1)	H5N1	aix sponsa	8833	vertebrates
+Influenza A virus (H5N1)	H5N1	aix galericulata	8832	vertebrates
+Influenza A virus (H5N1)	H5N1	alectoris chukar	9078	vertebrates
+Influenza A virus (H5N1)	H5N1	bucephala clangula	107022	vertebrates
+Influenza A virus (H5N1)	H5N1	anas rubripes	75857	vertebrates
+Influenza A virus (H5N1)	H5N1	falco naumanni	148594	vertebrates
+Influenza A virus (H5N1)	H5N1	larus brunnicephalus	328044	vertebrates
+Influenza A virus (H5N1)	H5N1	netta peposaca	541013	vertebrates
+Influenza A virus (H5N1)	H5N1	falco peregrinus	8954	vertebrates
+Influenza A virus (H5N1)	H5N1	lophura nycthemera	9046	vertebrates
+Influenza A virus (H5N1)	H5N1	cygnus columbianus	110926	vertebrates
+Influenza A virus (H5N1)	H5N1	anas formosa	56278	vertebrates
+Influenza A virus (H5N1)	H5N1	egretta garzetta	188379	vertebrates
+Influenza A virus (H5N1)	H5N1	phasianus colchicus	9054	vertebrates
+Influenza A virus (H5N1)	H5N1	lonchura punctulata	414892	vertebrates
+Influenza A virus (H5N1)	H5N1	accipiter nisus	211598	vertebrates
+Influenza A virus (H5N1)	H5N1	urocissa erythrorhyncha	56796	vertebrates
+Influenza A virus (H5N1)	H5N1	bubo bubo	30461	vertebrates
+Influenza A virus (H5N1)	H5N1	abrornis inornata	56436	vertebrates
+Influenza A virus (H5N1)	H5N1	accipiter gentilis	8957	vertebrates
+Influenza A virus (H5N1)	H5N1	acridotheres grandis	451384	vertebrates
+Influenza A virus (H5N1)	H5N1	acrocephalus arundinaceus	39621	vertebrates
+Influenza A virus (H5N1)	H5N1	actitis hypoleucos	320702	vertebrates
+Influenza A virus (H5N1)	H5N1	alcippe grotei	204884	vertebrates
+Influenza A virus (H5N1)	H5N1	alophoixus pallidus	182879	vertebrates
+Influenza A virus (H5N1)	H5N1	alopochen aegyptiacus	30382	vertebrates
+Influenza A virus (H5N1)	H5N1	anas acuta	28680	vertebrates
+Influenza A virus (H5N1)	H5N1	anas carolinensis	75836	vertebrates
+Influenza A virus (H5N1)	H5N1	anas clypeata	75838	vertebrates
+Influenza A virus (H5N1)	H5N1	anas crecca	75839	vertebrates
+Influenza A virus (H5N1)	H5N1	anas discors	75842	vertebrates
+Influenza A virus (H5N1)	H5N1	anas querquedula	75856	vertebrates
+Influenza A virus (H5N1)	H5N1	anas superciliosa	45632	vertebrates
+Influenza A virus (H5N1)	H5N1	anastomus oscitans	1706835	 
+Influenza A virus (H5N1)	H5N1	anser albifrons	50365	vertebrates
+Influenza A virus (H5N1)	H5N1	anser caerulescens	8849	vertebrates
+Influenza A virus (H5N1)	H5N1	anser canagica	107021	vertebrates
+Influenza A virus (H5N1)	H5N1	anser cygnoides	8845	vertebrates
+Influenza A virus (H5N1)	H5N1	aquila rapax	252781	vertebrates
+Influenza A virus (H5N1)	H5N1	aythya collaris	189535	vertebrates
+Influenza A virus (H5N1)	H5N1	branta hutchinsii	371860	vertebrates
+Influenza A virus (H5N1)	H5N1	bubulcus ibis	110668	vertebrates
+Influenza A virus (H5N1)	H5N1	calidris acuminata	192723	vertebrates
+Influenza A virus (H5N1)	H5N1	calidris alpina	8919	vertebrates
+Influenza A virus (H5N1)	H5N1	calidris canutus	227173	vertebrates
+Influenza A virus (H5N1)	H5N1	calidris mauri	279941	vertebrates
+Influenza A virus (H5N1)	H5N1	calidris pusilla	279961	vertebrates
+Influenza A virus (H5N1)	H5N1	calidris ruficollis	272047	vertebrates
+Influenza A virus (H5N1)	H5N1	chlamydotis macqueenii	187382	vertebrates
+Influenza A virus (H5N1)	H5N1	chlamydotis undulata	172680	vertebrates
+Influenza A virus (H5N1)	H5N1	ciconia ciconia	8928	vertebrates
+Influenza A virus (H5N1)	H5N1	circus aeruginosus	8964	vertebrates
+Influenza A virus (H5N1)	H5N1	colinus virginianus	9014	vertebrates
+Influenza A virus (H5N1)	H5N1	columba palumbus	8934	vertebrates
+Influenza A virus (H5N1)	H5N1	copsychus saularis	343929	vertebrates
+Influenza A virus (H5N1)	H5N1	corvus brachyrhynchos	85066	vertebrates
+Influenza A virus (H5N1)	H5N1	corvus macrorhynchos	36249	vertebrates
+Influenza A virus (H5N1)	H5N1	coturnix chinensis	46218	vertebrates
+Influenza A virus (H5N1)	H5N1	coturnix coturnix	9091	vertebrates
+Influenza A virus (H5N1)	H5N1	coturnix japonica	93934	vertebrates
+Influenza A virus (H5N1)	H5N1	crinifer piscator	119408	vertebrates
+Influenza A virus (H5N1)	H5N1	cygnus atratus	8868	vertebrates
+Influenza A virus (H5N1)	H5N1	dendrocygna eytoni	8875	vertebrates
+Influenza A virus (H5N1)	H5N1	dendrocygna javanica	60182	vertebrates
+Influenza A virus (H5N1)	H5N1	dicrurus annectans	357742	vertebrates
+Influenza A virus (H5N1)	H5N1	emberiza schoeniclus	30425	vertebrates
+Influenza A virus (H5N1)	H5N1	falco rusticolus	120794	vertebrates
+Influenza A virus (H5N1)	H5N1	falco sparverius	56350	vertebrates
+Influenza A virus (H5N1)	H5N1	fringilla montifringilla	36255	vertebrates
+Influenza A virus (H5N1)	H5N1	fulica atra	9121	vertebrates
+Influenza A virus (H5N1)	H5N1	garrulax canorus	238855	vertebrates
+Influenza A virus (H5N1)	H5N1	grus monacha	40818	vertebrates
+Influenza A virus (H5N1)	H5N1	haemorhous mexicanus	30427	vertebrates
+Influenza A virus (H5N1)	H5N1	ichthyaetus relictus	328046	vertebrates
+Influenza A virus (H5N1)	H5N1	lagonosticta senegala	247521	vertebrates
+Influenza A virus (H5N1)	H5N1	larus atricilla	126679	vertebrates
+Influenza A virus (H5N1)	H5N1	larus canus	28681	vertebrates
+Influenza A virus (H5N1)	H5N1	larus delawarensis	126683	vertebrates
+Influenza A virus (H5N1)	H5N1	larus mongolicus	119967	vertebrates
+Influenza A virus (H5N1)	H5N1	larus vegae	119608	vertebrates
+Influenza A virus (H5N1)	H5N1	limosa lapponica	161683	vertebrates
+Influenza A virus (H5N1)	H5N1	mixornis gularis	1948886	 
+Influenza A virus (H5N1)	H5N1	mareca americana	75832	vertebrates
+Influenza A virus (H5N1)	H5N1	mareca falcata	75844	vertebrates
+Influenza A virus (H5N1)	H5N1	mareca penelope	8838	vertebrates
+Influenza A virus (H5N1)	H5N1	mareca strepera	75861	vertebrates
+Influenza A virus (H5N1)	H5N1	melanitta nigra	198027	vertebrates
+Influenza A virus (H5N1)	H5N1	mergus merganser	8880	vertebrates
+Influenza A virus (H5N1)	H5N1	mergus serrator	8879	vertebrates
+Influenza A virus (H5N1)	H5N1	merops philippinus	457331	vertebrates
+Influenza A virus (H5N1)	H5N1	microscelis amaurotis	374649	vertebrates
+Influenza A virus (H5N1)	H5N1	milvus milvus	43518	vertebrates
+Influenza A virus (H5N1)	H5N1	morphnus guianensis	252789	vertebrates
+Influenza A virus (H5N1)	H5N1	myiomela leucura	758459	vertebrates
+Influenza A virus (H5N1)	H5N1	netta rufina	30387	vertebrates
+Influenza A virus (H5N1)	H5N1	nycticorax nycticorax	8901	vertebrates
+Influenza A virus (H5N1)	H5N1	pelecanus conspicillatus	317791	vertebrates
+Influenza A virus (H5N1)	H5N1	pellorneum tickelli	201360	vertebrates
+Influenza A virus (H5N1)	H5N1	phoenicopterus roseus	435638	vertebrates
+Influenza A virus (H5N1)	H5N1	phoenicopterus ruber	9217	vertebrates
+Influenza A virus (H5N1)	H5N1	pluvialis fulva	371922	vertebrates
+Influenza A virus (H5N1)	H5N1	psittacula krameri	9228	vertebrates
+Influenza A virus (H5N1)	H5N1	pycnonotus flaviventris	1767024	 
+Influenza A virus (H5N1)	H5N1	pycnonotus melanicterus	241766	vertebrates
+Influenza A virus (H5N1)	H5N1	quelea quelea	187445	vertebrates
+Influenza A virus (H5N1)	H5N1	saxicola torquata	230656	vertebrates
+Influenza A virus (H5N1)	H5N1	scolopax rusticola	100826	vertebrates
+Influenza A virus (H5N1)	H5N1	sterna hirundo	108405	vertebrates
+Influenza A virus (H5N1)	H5N1	streptopelia chinensis	115700	vertebrates
+Influenza A virus (H5N1)	H5N1	sturnus contra	451423	vertebrates
+Influenza A virus (H5N1)	H5N1	sturnus vulgaris	9172	vertebrates
+Influenza A virus (H5N1)	H5N1	sylvia atricapilla	48155	vertebrates
+Influenza A virus (H5N1)	H5N1	tachybaptus ruficollis	100828	vertebrates
+Influenza A virus (H5N1)	H5N1	tadorna tadorna	75865	vertebrates
+Influenza A virus (H5N1)	H5N1	taeniopygia guttata	59729	vertebrates
+Influenza A virus (H5N1)	H5N1	thalasseus bergii	1843445	 
+Influenza A virus (H5N1)	H5N1	threskiornis moluccus	2671080	 
+Influenza A virus (H5N1)	H5N1	turdus pallidus	36282	vertebrates
+Influenza A virus (H5N1)	H5N1	uria aalge	13746	vertebrates
+Influenza A virus (H5N1)	H5N1	uria lomvia	28711	vertebrates
+Influenza A virus (H5N1)	H5N1	gracula religiosa	116992	vertebrates
+Influenza A virus (H5N1)	H5N1	aythya marila	189534	vertebrates
+Influenza A virus (H5N1)	H5N1	anas undulata	75862	vertebrates
+Influenza A virus (H5N1)	H5N1	hirundo rustica	43150	vertebrates
+Influenza A virus (H5N1)	H5N1	hoplopterus spinosus	8909	vertebrates
+Influenza A virus (H5N1)	H5N1	melopsittacus undulatus	13146	vertebrates
+Influenza A virus (H5N1)	H5N1	pavo cristatus	9049	vertebrates
+Influenza A virus (H5N1)	H5N1	parus major	9157	vertebrates
+Influenza A virus (H5N1)	H5N1	suricata suricatta	37032	mammals
+Influenza A virus (H5N1)	H5N1	ochotona curzoniae	130825	mammals
+Influenza A virus (H5N1)	H5N1	aegypius monachus	8959	vertebrates
+Influenza A virus (H5N1)	H5N1	camelus dromedarius	9838	mammals
+Influenza A virus (H5N1)	H5N1	cavia porcellus	10141	rodents
+Influenza A virus (H5N1)	H5N1	chlorocebus aethiops	9534	primates
+Influenza A virus (H5N1)	H5N1	equus asinus	9793	mammals
+Influenza A virus (H5N1)	H5N1	hydropotes inermis	9883	mammals
+Influenza A virus (H5N1)	H5N1	macaca fascicularis	9541	primates
+Influenza A virus (H5N1)	H5N1	macaca mulatta	9544	primates
+Influenza A virus (H5N1)	H5N1	martes foina	9659	mammals
+Influenza A virus (H5N1)	H5N1	mustela putorius	9668	mammals
+Influenza A virus (H5N1)	H5N1	myodes glareolus	447135	rodents
+Influenza A virus (H5N1)	H5N1	panthera leo	9689	mammals
+Influenza A virus (H5N1)	H5N1	panthera pardus	9691	mammals
+Influenza A virus (H5N1)	H5N1	prionailurus bengalensis	37029	mammals
+Influenza A virus (H5N1)	H5N1	procyon lotor	9654	mammals
+Influenza A virus (H5N1)	H5N1	sigmodon hispidus	42415	rodents
+Influenza A virus (H5N1)	H5N1	tupaia belangeri	37347	mammals
+Influenza A virus (H5N1)	H5N1	tupaia chinensis	246437	mammals
+Influenza A virus (H5N1)	H5N1	tupaia glis	9395	mammals
+Influenza A virus (H5N1)	H5N1	vulpes vulpes	9627	mammals
+Influenza A virus (H5N1)	H5N1	lonchura atricapilla	1036803	 
+Influenza A virus (H5N1)	H5N1	grus nigricollis	40817	vertebrates
+Influenza A virus (H5N1)	H5N1	grallina cyanoleuca	254541	vertebrates
+Influenza A virus (H5N1)	H5N1	geopelia placida	471127	 
+Influenza A virus (H5N1)	H5N1	agropsar sturninus	2675479	 
+Influenza A virus (H5N1)	H5N1	leptoptilos crumeniferus	33589	vertebrates
+Influenza A virus (H5N1)	H5N1	streptopelia turtur	177155	vertebrates
+Influenza A virus (H5N1)	H5N1	pelecanus crispus	36300	vertebrates
+Influenza A virus (H3N2)	H3N2	sus scrofa	9823	mammals
+Influenza A virus (H3N2)	H3N2	homo sapiens	9606	primates
+Influenza A virus (H3N2)	H3N2	felis catus	9685	mammals
+Influenza A virus (H3N2)	H3N2	camelus dromedarius	9838	mammals
+Influenza A virus (H3N2)	H3N2	mus musculus	10090	rodents
+Influenza A virus (H3N2)	H3N2	anas crecca	75839	vertebrates
+Influenza A virus (H3N2)	H3N2	ardea cinerea	30390	vertebrates
+Influenza A virus (H3N2)	H3N2	pusa caspica	693431	mammals
+Influenza A virus (H3N2)	H3N2	anas platyrhynchos	8839	vertebrates
+Influenza A virus (H3N2)	H3N2	meleagris gallopavo	9103	vertebrates
+Influenza A virus (H3N2)	H3N2	gallus gallus	9031	vertebrates
+Influenza A virus (H3N2)	H3N2	anas discors	75842	vertebrates
+Influenza A virus (H3N2)	H3N2	anas rubripes	75857	vertebrates
+Influenza A virus (H3N2)	H3N2	anas carolinensis	75836	vertebrates
+Influenza A virus (H3N2)	H3N2	cairina moschata	8855	vertebrates
+Influenza A virus (H3N2)	H3N2	anas acuta	28680	vertebrates
+Influenza A virus (H3N2)	H3N2	anser albifrons	50365	vertebrates
+Influenza A virus (H3N2)	H3N2	coturnix coturnix	9091	vertebrates
+Influenza A virus (H3N2)	H3N2	arenaria interpres	54971	vertebrates
+Influenza A virus (H3N2)	H3N2	aythya collaris	189535	vertebrates
+Influenza A virus (H3N2)	H3N2	mustela lutreola	9666	mammals
+Influenza A virus (H3N2)	H3N2	mareca strepera	75861	vertebrates
+Influenza A virus (H3N2)	H3N2	anas formosa	56278	vertebrates
+Influenza A virus (H3N2)	H3N2	anas diazi	75841	vertebrates
+Influenza A virus (H3N2)	H3N2	coturnix japonica	93934	vertebrates
+Influenza A virus (H3N2)	H3N2	passer montanus	9160	vertebrates
+Influenza A virus (H3N2)	H3N2	bos indicus	9915	mammals
+Influenza A virus (H3N2)	H3N2	canis lupus	9612	mammals
+Influenza A virus (H3N2)	H3N2	cavia porcellus	10141	rodents
+Influenza A virus (H3N2)	H3N2	macaca fascicularis	9541	primates
+Influenza A virus (H3N2)	H3N2	mustela putorius	9668	mammals
+Influenza A virus (H3N2)	H3N2	pusa hispida	9718	mammals
+Influenza A virus (H3N2)	H3N2	pusa sibirica	9719	mammals
+Influenza A virus (H3N2)	H3N2	saimiri sciureus	9521	primates
+Influenza A virus (H3N2)	H3N2	sigmodon hispidus	42415	rodents
+Human papillomavirus 8	HPV-8	homo sapiens	9606	primates
