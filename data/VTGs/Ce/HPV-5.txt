@@ -1,0 +1,11 @@
+Abbre	Gene
+HPV-5	phb-1
+HPV-5	pas-2
+HPV-5	R186.3
+HPV-5	F54C8.7
+HPV-5	fzr-1
+HPV-5	dnj-27
+HPV-5	C14B9.2
+HPV-5	uba-1
+HPV-5	vps-39
+HPV-5	K01A2.5

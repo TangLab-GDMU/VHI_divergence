@@ -1,0 +1,13 @@
+Abbre	Gene
+HPV-9	pas-2
+HPV-9	ral-1
+HPV-9	gop-2
+HPV-9	sel-12
+HPV-9	F54C8.7
+HPV-9	fzr-1
+HPV-9	C14B9.2
+HPV-9	uba-1
+HPV-9	fkb-1
+HPV-9	vps-39
+HPV-9	skpt-1
+HPV-9	Y37E3.8

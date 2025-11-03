@@ -1,0 +1,12 @@
+Abbre	Gene
+HPV-33	rpl-3
+HPV-33	pas-2
+HPV-33	mrpl-12
+HPV-33	sco-1
+HPV-33	epi-1
+HPV-33	phb-2
+HPV-33	F44B9.5
+HPV-33	F54C8.7
+HPV-33	uba-1
+HPV-33	rnp-3
+HPV-33	rps-25

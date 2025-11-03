@@ -1,0 +1,16 @@
+Abbre	Gene
+VACV	rha-1
+VACV	unc-70
+VACV	cul-3
+VACV	teg-1
+VACV	F44B9.5
+VACV	aap-1
+VACV	cnt-1
+VACV	cand-1
+VACV	age-1
+VACV	alx-1
+VACV	xpa-1
+VACV	rpl-22
+VACV	cdc-37
+VACV	unc-116
+VACV	Y37E3.8
