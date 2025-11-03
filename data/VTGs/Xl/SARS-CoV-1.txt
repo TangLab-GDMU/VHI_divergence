@@ -1,0 +1,17 @@
+Abbre	Gene
+SARS-CoV-1	tp53
+SARS-CoV-1	rae1
+SARS-CoV-1	bag6
+SARS-CoV-1	fxr1
+SARS-CoV-1	prkdc
+SARS-CoV-1	phb2
+SARS-CoV-1	znf598
+SARS-CoV-1	pola1
+SARS-CoV-1	fancd2
+SARS-CoV-1	dnaja2
+SARS-CoV-1	atm
+SARS-CoV-1	hspa9
+SARS-CoV-1	ncapd3
+SARS-CoV-1	nup54
+SARS-CoV-1	eml4
+SARS-CoV-1	hnrnpdl

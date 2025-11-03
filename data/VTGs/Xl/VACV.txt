@@ -1,0 +1,14 @@
+Abbre	Gene
+VACV	tp53
+VACV	dhx9
+VACV	hspb1
+VACV	ddx3x
+VACV	hnrnpr
+VACV	syncrip
+VACV	anxa2
+VACV	cit
+VACV	ncor2
+VACV	btrc
+VACV	mbtd1
+VACV	tubb2b
+VACV	npm1

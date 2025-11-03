@@ -1,0 +1,16 @@
+Abbre	Gene
+HPV-18	tp53
+HPV-18	hspb1
+HPV-18	rpn2
+HPV-18	vim
+HPV-18	mcm7
+HPV-18	kat7
+HPV-18	phb2
+HPV-18	tnpo1
+HPV-18	ccne1
+HPV-18	fzd7
+HPV-18	tmpo
+HPV-18	tipin
+HPV-18	kif20a
+HPV-18	dnaja1
+HPV-18	tbl1xr1

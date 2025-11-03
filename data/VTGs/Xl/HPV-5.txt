@@ -1,0 +1,10 @@
+Abbre	Gene
+HPV-5	tp53
+HPV-5	hspb1
+HPV-5	kat7
+HPV-5	fzr1
+HPV-5	anxa2
+HPV-5	tipin
+HPV-5	cdc20
+HPV-5	kif20a
+HPV-5	sumo2

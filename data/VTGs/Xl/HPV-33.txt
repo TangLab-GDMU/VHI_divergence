@@ -1,0 +1,10 @@
+Abbre	Gene
+HPV-33	tp53
+HPV-33	rpl3
+HPV-33	pcna
+HPV-33	kat7
+HPV-33	phb2
+HPV-33	tipin
+HPV-33	cdc20
+HPV-33	kif20a
+HPV-33	tbl1xr1

@@ -1,0 +1,16 @@
+Abbre	Gene
+H5N1	rps5
+H5N1	dhx9
+H5N1	fbl
+H5N1	ncbp1
+H5N1	ddx3x
+H5N1	smc4
+H5N1	hnrnpr
+H5N1	syncrip
+H5N1	ddx18
+H5N1	matr3
+H5N1	cdc73
+H5N1	ywhab
+H5N1	rps2
+H5N1	ptbp1
+H5N1	hnrnpdl

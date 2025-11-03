@@ -1,0 +1,13 @@
+Abbre	Gene
+HPV-11	tp53
+HPV-11	rpn2
+HPV-11	mcm7
+HPV-11	cct3
+HPV-11	kat7
+HPV-11	phb2
+HPV-11	tnpo1
+HPV-11	pola1
+HPV-11	atad3a
+HPV-11	tmpo
+HPV-11	dnaja1
+HPV-11	rpl13a

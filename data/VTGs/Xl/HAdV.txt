@@ -1,0 +1,11 @@
+Abbre	Gene
+HAdV	tp53
+HAdV	cct3
+HAdV	prkdc
+HAdV	ube2i
+HAdV	ddx5
+HAdV	tmpo
+HAdV	ccna1
+HAdV	thra
+HAdV	hdac1
+HAdV	npm1

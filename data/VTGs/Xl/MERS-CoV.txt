@@ -1,0 +1,6 @@
+Abbre	Gene
+MERS-CoV	tp53
+MERS-CoV	tcf3
+MERS-CoV	usp7
+MERS-CoV	bag6
+MERS-CoV	fxr1

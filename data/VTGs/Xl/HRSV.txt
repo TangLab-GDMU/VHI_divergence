@@ -1,0 +1,14 @@
+Abbre	Gene
+HRSV	rpl3
+HRSV	xpo1
+HRSV	med23
+HRSV	prkdc
+HRSV	tnpo1
+HRSV	atad3a
+HRSV	fancd2
+HRSV	ywhab
+HRSV	dnaja2
+HRSV	nup93
+HRSV	dnaja1
+HRSV	npm1
+HRSV	rps13

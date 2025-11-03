@@ -1,0 +1,11 @@
+Abbre	Gene
+HPV-9	tp53
+HPV-9	hspb1
+HPV-9	pcna
+HPV-9	kat7
+HPV-9	rplp0
+HPV-9	fzr1
+HPV-9	tipin
+HPV-9	cdc20
+HPV-9	kif20a
+HPV-9	rps13

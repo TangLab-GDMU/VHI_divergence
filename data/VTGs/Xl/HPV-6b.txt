@@ -1,0 +1,10 @@
+Abbre	Gene
+HPV-6b	rpl3
+HPV-6b	rpn2
+HPV-6b	mcm7
+HPV-6b	phb2
+HPV-6b	tnpo1
+HPV-6b	atad3a
+HPV-6b	tmpo
+HPV-6b	rpl13a
+HPV-6b	rps13

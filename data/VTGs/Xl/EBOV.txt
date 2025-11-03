@@ -1,0 +1,17 @@
+Abbre	Gene
+EBOV	tp53
+EBOV	dhx9
+EBOV	fbl
+EBOV	kpnb1
+EBOV	pcna
+EBOV	rpn2
+EBOV	prkdc
+EBOV	phb2
+EBOV	rplp0
+EBOV	ddx18
+EBOV	matr3
+EBOV	cdc5l
+EBOV	ptbp1
+EBOV	dnaja1
+EBOV	gnl3
+EBOV	rrp1b
