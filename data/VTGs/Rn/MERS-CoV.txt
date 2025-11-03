@@ -1,0 +1,16 @@
+Abbre	Gene
+MERS-CoV	Atp6v1b2
+MERS-CoV	Ddb1
+MERS-CoV	Usp7
+MERS-CoV	Lman1
+MERS-CoV	Gphn
+MERS-CoV	Csnk2a2
+MERS-CoV	Zbtb16
+MERS-CoV	Dnajb9
+MERS-CoV	Prkar2b
+MERS-CoV	Mapk1
+MERS-CoV	Vamp8
+MERS-CoV	Nsfl1c
+MERS-CoV	Ppp2r1a
+MERS-CoV	Larp7
+MERS-CoV	Prkaca

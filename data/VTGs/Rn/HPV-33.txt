@@ -1,0 +1,17 @@
+Abbre	Gene
+HPV-33	Tbp
+HPV-33	Cct7
+HPV-33	Bcl2l1
+HPV-33	Ube3a
+HPV-33	Map1s
+HPV-33	Pdzrn3
+HPV-33	Dlg1
+HPV-33	Ptk2b
+HPV-33	Thbs1
+HPV-33	Magi1
+HPV-33	Rela
+HPV-33	Cdc20
+HPV-33	Wwp2
+HPV-33	Cops5
+HPV-33	Pcbp1
+HPV-33	Rims2
